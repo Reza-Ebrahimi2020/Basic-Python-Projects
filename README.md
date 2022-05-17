@@ -4,7 +4,6 @@ I am Reza Ebrahimi. I have completed my master's in computer science. My areas o
 
 Skills: Python /Java / C++ / OpenCV / Blockchain
 
-- 🔭 I’m currently working on this page. 
 
 
 
